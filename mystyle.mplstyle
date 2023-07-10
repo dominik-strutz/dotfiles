@@ -63,7 +63,7 @@ legend.facecolor     : 'none'
 legend.edgecolor     : (0, 0, 0, 0)     # background patch boundary color
 legend.framealpha    : 1.0      # legend patch transparency
 
-legend.scatterpoints : 3
+legend.scatterpoints : 1
 legend.borderaxespad: 2.0 
 
 ### FIGURE
