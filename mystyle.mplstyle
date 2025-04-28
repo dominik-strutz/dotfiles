@@ -27,7 +27,7 @@ axes.titlesize      : 9.6
 axes.labelsize      : 8.8
 axes.formatter.limits         : -5, 5
 axes.formatter.useoffset      : False
-axes.prop_cycle    : (cycler('color', ['#E69F00', '#56B4E9', '#009E73', '#0072B2', '#D55E00', '#CC79A7', '#F0E442']) + cycler('linestyle', ['-', '--', '-.', ':', '-', '--', '-.']) + cycler('marker', ['4', '2', '3', '1', '+', 'x', '.']))
+axes.prop_cycle : (cycler('marker', ['o', 's', '^', 'v', '<', '>', 'd']) + cycler('color', ['0C5DA5', '00B945', 'FF9500', 'FF2C00', '845B97', '474747', '9e9e9e']) + cycler('ls', [' ', ' ', ' ', ' ', ' ', ' ', ' ']))
 
 
 ### TICKS
